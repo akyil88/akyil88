@@ -2,7 +2,7 @@
 
 <img src="https://github.com/GökhanAkyil/GökhanAkyil/blob/master/output.gif" alt="Here is a little bit about me!">
 
-
+d
 - reiten
 - lernen
 - Schwimmen
