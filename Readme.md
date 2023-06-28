@@ -1,8 +1,7 @@
 # Hallo mein Name ist Gökhan #
 
 
-Bisschen über meine Hobby
-
+Meine Hobbys sind:
 
 - reiten
 - Volleyball 
