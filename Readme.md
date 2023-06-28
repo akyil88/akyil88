@@ -3,9 +3,10 @@
 
 Meine Hobbys sind:
 
-- reiten
+- Reiten
 - Volleyball 
 - Schwimmen
 - Fussball
+- Buch lesen
 
 
