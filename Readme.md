@@ -1,10 +1,11 @@
 # Hallo mein Name ist Gökhan #
 
-<img src="https://github.com/GökhanAkyil/GökhanAkyil/blob/master/output.gif" alt="Here is a little bit about me!">
 
-d
+Bisschen über meine Hobby
+
+
 - reiten
-- lernen
+- Volleyball 
 - Schwimmen
 - Fussball
 
