@@ -8,4 +8,4 @@ Meine Hobbys sind:
 - Schwimmen
 - Fussball
 - Buch lesen
-<img src="[  ](https://www.lto.de/fileadmin/_processed_/f/0/csm_pferd_mangelfrei_620_6c3233818f.jpg)https://www.lto.de/fileadmin/_processed_/f/0/csm_pferd_mangelfrei_620_6c3233818f.jpg">
+<img src="pferd.img"
