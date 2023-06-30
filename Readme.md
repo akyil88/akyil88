@@ -1,12 +1,13 @@
-# Herzlich Wilkommen #
+# Herzlich Wilkommen
+
 Ich bins Gökhan Akyil
- Ich lerne grad wie man progarmmiert...und freue mich auf neues....
+Ich lerne grad wie man progarmmiert...und freue mich auf neues....
 
 Meine Hobbys sind:
 
 - Reiten
-- Volleyball 
+- Volleyball
 - Schwimmen
 - Fussball
 - Buch lesen
-<img src="pferd.img"
+  <img src="Pferd%202.jpeg" alt="Pferd">
