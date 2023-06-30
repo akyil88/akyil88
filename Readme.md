@@ -1,5 +1,6 @@
 # Herzlich Wilkommen #
-    Gökhan Akyil
+Ich bins Gökhan Akyil
+ Ich lerne grad wie man progarmmiert...und freue mich auf neues....
 
 Meine Hobbys sind:
 
